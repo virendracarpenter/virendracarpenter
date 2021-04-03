@@ -1,4 +1,4 @@
-<p align="center"> <img src="pic.jpg" alt="me!"/></p>
+<p align="center"> <img src="vcarp cover github.png" alt="me!"/></p>
 
 # <p align="center">Hello there, I'm Virendra. <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="50"> </p>
 ### <p align="center">Developer from India. <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p> </p>
