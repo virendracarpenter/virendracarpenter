@@ -1,7 +1,11 @@
 <p align="center"> <img src="vcarp cover github.png" alt="me!"/></p>
 
-# <p align="center">Hello there, I'm Virendra. <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="50"> </p>
-### <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="100"> Developer from India.</p>
+# <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm Virendra Carpenter <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"> </p>
+
+### <p align="center">Developer From India </p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=virendracarpenter&theme=onedark&column=4" alt="virendracarpenter" /></p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=virendracarpenter&theme=dark&show_icons=true" alt="stats"/><br></p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=virendracarpenter&theme=dark"/></p>
 
@@ -22,10 +26,22 @@
 
 # Find me here
 
-<img align="left" alt="Virendra's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/vcarp"/><img align="left" alt="Virendra's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/veecarpenter"/><img align="left" alt="Virendra's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/virendra_carpenter/"/><img align="left" alt="Virendra's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/virendracarpenter/"/><img align="left" alt="Virendra - YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCiNt1V4WSLB0hLUy4pSDynw/"/><img align="left" alt="My XDA" src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" href="https://forum.xda-developers.com/m/virendra_carpenter.10819621/"/><img align="left" alt="HashNode Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" href="https://codecompilers.hashnode.dev/"/> 
-<br><br>
-![Twitter Follow](https://img.shields.io/twitter/follow/veecarpenter?style=for-the-badge) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiNt1V4WSLB0hLUy4pSDynw?style=for-the-badge)
-
+<p align="left>
+<a href="https://t.me/vcarp"/><img align="center" alt="Virendra's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://twitter.com/veecarpenter"> <img align="center" alt="Virendra's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/virendra_carpenter/"><img align="center" alt="Virendra's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/virendracarpenter/"><img align="center" alt="Virendra's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://dev.to/virendracarpenter"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/virendracarpenter"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/vcarp"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/viren_28opensky"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.leetcode.com/vcarp"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://auth.geeksforgeeks.org/user/vcarp"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCiNt1V4WSLB0hLUy4pSDynw/"><img align="center" alt="Virendra - YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://forum.xda-developers.com/m/virendra_carpenter.10819621/"><img align="center" alt="My XDA" src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"/></a>
+<a href="https://codecompilers.hashnode.dev/"><img align="center" alt="HashNode Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://twitter.com/veecarpenter"><img align="center" src="https://img.shields.io/twitter/follow/veecarpenter?logo=twitter&style=for-the-badge" alt="veecarpenter" /></a> 
+<a href="https://www.youtube.com/channel/UCiNt1V4WSLB0hLUy4pSDynw/"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiNt1V4WSLB0hLUy4pSDynw?style=for-the-badge" alt="veecarpenter" /></a>
 </p>
 
 ---
@@ -46,6 +62,7 @@
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -58,17 +75,21 @@
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<br><br>
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
+---      
+                                                                                                   
+# Spotify Playing 🎧                    
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31em2kzeeu5yksdlb5nzytlhkge4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
-<br><br>
+## Support:
+<p><a href="https://www.buymeacoffee.com/vcarp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vcarp" /></a></p><br><br>
 
----      
-                                                                                                                         
-# Spotify Playing 🎧                                                                                                                        
-               
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31em2kzeeu5yksdlb5nzytlhkge4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-                                                                                                                                                
 ---
