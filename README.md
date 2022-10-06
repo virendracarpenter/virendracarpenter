@@ -1,4 +1,5 @@
-<p align="center"> <img src="vcarp cover github.png" alt="me!"/></p>
+[![@virendracarpenter's Holopin board](https://holopin.io/api/user/board?user=virendracarpenter)](https://holopin.io/@virendracarpenter)
+<!-- <p align="center"> <img src="vcarp cover github.png" alt="me!"/></p> -->
 
 # <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm Virendra Carpenter <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"> </p>
 
@@ -22,8 +23,6 @@
 <li> ⚡ Fun fact: NOTHING IS NOTHING </li>
     </ul>
   
-[![@virendracarpenter's Holopin board](https://holopin.io/api/user/board?user=virendracarpenter)](https://holopin.io/@virendracarpenter)
-
 # Find me here
 
 <p align="left>
