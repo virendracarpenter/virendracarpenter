@@ -27,71 +27,28 @@
 
 ### Socials
 
-<table>
-  
-  <tr>
-    <td>
 <a href="https://t.me/vcarp"/><img align="center" alt="Virendra's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  </td>
-  <td>
 <a href="https://twitter.com/veecarpenter"> <img align="center" alt="Virendra's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-  </td>
-  <td>
 <a href="https://www.instagram.com/virendra_carpenter/"><img align="center" alt="Virendra's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  </td>
-  <td>
 <a href="https://www.linkedin.com/in/virendracarpenter/"><img align="center" alt="Virendra's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  </td>
-  <td>
 <a href="https://twitter.com/veecarpenter"><img align="center" src="https://img.shields.io/twitter/follow/veecarpenter?logo=twitter&style=for-the-badge" alt="veecarpenter" /></a> 
-</td>
-
-</tr>
-</table>
                                                                                           
 ### Tech Platforms                                                                                   
 
-<table>
-  <tr>
-  <td>
-<a href="https://codecompilers.hashnode.dev/"><img style="padding: 125px" align="center" alt="HashNode Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a> 
-  </td>
-  <td>
+<a href="https://codecompilers.hashnode.dev/"><img align="center" alt="HashNode Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a> 
 <a href="https://dev.to/virendracarpenter"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  </td>
-   <td>
 <a href="https://stackoverflow.com/users/virendracarpenter"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-   </td>
-   <td>
 <a href="https://forum.xda-developers.com/m/virendra_carpenter.10819621/"><img align="center" alt="My XDA" src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"/></a> 
-   </td>
-   <td>
 <a href="https://www.youtube.com/channel/UCiNt1V4WSLB0hLUy4pSDynw/"><img align="center" alt="Virendra - YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-   </td>
-   <td>
 <a href="https://www.youtube.com/channel/UCiNt1V4WSLB0hLUy4pSDynw/"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiNt1V4WSLB0hLUy4pSDynw?style=for-the-badge" alt="veecarpenter" /></a>
-    </td>
-  </tr>
-  </table>
 
 ### Coding Profiles
 
-<table>
-<tr>
-  <td>
 <a href="https://www.codechef.com/users/vcarp"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> 
-  </td>
-  <td>
 <a href="https://www.hackerrank.com/viren_28opensky"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  </td>
-  <td>
 <a href="https://www.leetcode.com/vcarp"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  </td>
-  <td>
 <a href="https://auth.geeksforgeeks.org/user/vcarp"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  </td>
-  </tr>
-</table>
+
 </br>
 </br>
 
