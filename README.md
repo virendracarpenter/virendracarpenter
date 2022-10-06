@@ -89,5 +89,5 @@
 ## 💸 SUPPORT 💸 ##
 <img align="left" src="https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple" width="150" alt="vcarp"/> 
 <a href="https://www.buymeacoffee.com/vcarp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="vcarp" /></a><br><br>
-<a href="https:/"><img align="center" src="docs/virendra%20carpenter_upi.png" width="150" alt="vcarp"/></a>
+<p align="left"><a href="https:/"><img align="center" src="docs/virendra%20carpenter_upi.png" width="150" alt="vcarp"/></a><p>
 <br><br>
