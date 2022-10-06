@@ -3,7 +3,7 @@
 
 # <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm VIRENDRA CARPENTER<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"></p>
 
-### <p align="center">👨‍💻 Developer From India 🇮🇳</p> ###
+### <p align="center"> 👨‍💻 DEVELOPER FROM INDIA 🇮🇳 </p> ###
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=virendracarpenter&theme=onedark&column=4" alt="virendracarpenter"/> <br>
@@ -58,7 +58,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 ![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
-![](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white) 
+![](https://img.shields.io/badge/Custom_Roms-167C80?style=for-the-badge&logo=lineageos&logoColor=white) 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -93,7 +93,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
                                                                                                          
-## 🎶 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 🎧 ##                   
+# 🎶 ![Spotify](https://img.shields.io/badge/Spotify-Playing_Now-brightgreen?style=for-the-badge&logo=spotify) 🎶 #
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31em2kzeeu5yksdlb5nzytlhkge4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)
 
 ## 💸 SUPPORT 💸 ##
