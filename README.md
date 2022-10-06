@@ -1,29 +1,27 @@
 [![@virendracarpenter's Holopin board](https://holopin.io/api/user/board?user=virendracarpenter)](https://holopin.io/@virendracarpenter)
 <!-- <p align="center"> <img src="vcarp cover github.png" alt="me!"/></p> -->
 
-# <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm Virendra Carpenter <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"> </p>
+# <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm VIRENDRA CARPENTER<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"></p>
 
-### <p align="center">Developer From India </p>
+### <p align="center">👨‍💻 Developer From India 🇮🇳</p> ###
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=virendracarpenter&theme=onedark&column=4" alt="virendracarpenter" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=virendracarpenter&theme=dark&show_icons=true" alt="stats"/><br></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=virendracarpenter&theme=dark"/></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=virendracarpenter" alt="virendracarpenter" /></p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=virendracarpenter&theme=onedark&column=4" alt="virendracarpenter"/> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=virendracarpenter&theme=dark&show_icons=true" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=virendracarpenter&theme=dark"/> <br>
+<img src="https://komarev.com/ghpvc/?username=virendracarpenter" alt="virendracarpenter" />
+</p>
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvirendracarpenter&longCache=true)](https://github.com/virendracarpenter) 
 
-  <ul>
-<li> 🔭 I’m currently working on Flutter </li>
-<li> 🌱 I’m currently learning NOTHING </li>
-<li> 👯 I’m looking to collaborate for NOTHING </li>
-<li> 🤔 I’m looking for help with NOTHING </li>
-<li> 💬 Ask me about NOTHING </li>
-<li> ⚡ Fun fact: NOTHING IS NOTHING </li>
-    </ul>
+* 🔭 I’m currently working on Flutter </li>
+* 🌱 I’m currently learning NOTHING </li>
+* 👯 I’m looking to collaborate for NOTHING </li>
+* 🤔 I’m looking for help with NOTHING </li>
+* 💬 Ask me about NOTHING </li>
+* ⚡ Fun fact: NOTHING IS NOTHING </li>
   
-# Find me here
+## 💬 FIND ME HERE 💬 ##
 
 <p align="left>
 <a href="https://t.me/vcarp"/><img align="center" alt="Virendra's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -43,9 +41,7 @@
 <a href="https://www.youtube.com/channel/UCiNt1V4WSLB0hLUy4pSDynw/"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiNt1V4WSLB0hLUy4pSDynw?style=for-the-badge" alt="veecarpenter" /></a>
 </p>
 
----
-
-# My Zone
+## 👽 MY ZONE 👽 ##
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
@@ -86,16 +82,12 @@
 ![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----      
-                                                                                                   
-## ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) Playing 🎧                    
-
+                                                                                                         
+## 🎶 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 🎧 ##                   
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31em2kzeeu5yksdlb5nzytlhkge4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)
 
----
-
-## Support:
-<p><a href="https://www.buymeacoffee.com/vcarp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vcarp" /></a></p><br><br>
-
----
+## 💸 SUPPORT 💸 ##
+<img align="left" src="https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple" width="150" alt="vcarp"/> 
+<a href="https://www.buymeacoffee.com/vcarp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="vcarp" /></a><br><br>
+<a href="https:/"><img align="center" src="docs/virendra%20carpenter_upi.png" width="150" alt="vcarp"/></a>
+<br><br>
