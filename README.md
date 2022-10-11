@@ -1,7 +1,7 @@
 [![@virendracarpenter's Holopin board](https://holopin.io/api/user/board?user=virendracarpenter)](https://holopin.io/@virendracarpenter)
 <!-- <p align="center"> <img src="vcarp cover github.png" alt="me!"/></p> -->
 
-# <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm VIRENDRA CARPENTER<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"></p>
+# <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm VIRENDRA CARPENTER <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"></p>
 
 ### <p align="center"> 👨‍💻 DEVELOPER FROM INDIA 🇮🇳 </p> ###
 
@@ -11,6 +11,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=virendracarpenter&theme=dark"/> <br>
 <img src="https://komarev.com/ghpvc/?username=virendracarpenter" alt="virendracarpenter" />
 </p>
+
+![VC](https://img.shields.io/badge/Virendra-_Carpenter-brightgreen?style=for-the-badge&logo=Ghostery&color=blueviolet&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvirendracarpenter&longCache=true)](https://github.com/virendracarpenter) 
 
@@ -23,13 +25,11 @@
   
 ## 💬 FIND ME HERE 💬 ##
 
-
-
 ### Socials
 
-<a href="https://t.me/vcarp"/><img align="center" alt="Virendra's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://twitter.com/veecarpenter"> <img align="center" alt="Virendra's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-<a href="https://www.instagram.com/virendra_carpenter/"><img align="center" alt="Virendra's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/vcarp"/><img align="center" alt="Virendra's Telegram" src="https://img.shields.io/badge/Telegram-@_vcarp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://twitter.com/veecarpenter"> <img align="center" alt="Virendra's Twitter" src="https://img.shields.io/badge/Twitter-_@_veecarpenter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href="https://www.instagram.com/virendra_carpenter/"><img align="center" alt="Virendra's Instagram" src="https://img.shields.io/badge/Instagram-_@virendra__carpenter-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/virendracarpenter/"><img align="center" alt="Virendra's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://twitter.com/veecarpenter"><img align="center" src="https://img.shields.io/twitter/follow/veecarpenter?logo=twitter&style=for-the-badge" alt="veecarpenter" /></a> 
                                                                                           
