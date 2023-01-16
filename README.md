@@ -102,3 +102,5 @@
 <a href="https://www.buymeacoffee.com/vcarp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="vcarp" /></a><br><br>
 <p align="left"><a href="https:/"><img align="center" src="docs/virendra%20carpenter_upi.png" width="150" alt="vcarp"/></a><p>
 <br><br>
+ 
+![Graph](http://github-readme-activity-graph.cyclic.app/graph?username=virendracarpenter&theme=react-dark)
