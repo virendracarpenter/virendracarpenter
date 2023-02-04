@@ -17,10 +17,10 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvirendracarpenter&longCache=true)](https://github.com/virendracarpenter) 
 
 * 🔭 I’m currently working on Flutter </li>
-* 🌱 I’m currently learning NOTHING </li>
-* 👯 I’m looking to collaborate for NOTHING </li>
-* 🤔 I’m looking for help with NOTHING </li>
-* 💬 Ask me about NOTHING </li>
+* 🌱 I’m currently learning Full Stack Development </li>
+* 👯 I’m looking to collaborate for Anyone </li>
+* 🤔 I’m looking for help with Backend </li>
+* 💬 Ask me about Tech Mention  </li>
 * ⚡ Fun fact: NOTHING IS NOTHING </li>
   
 ## 💬 FIND ME HERE 💬 ##
