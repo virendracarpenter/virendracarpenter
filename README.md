@@ -1,4 +1,4 @@
-[![@virendracarpenter's Holopin board](https://holopin.io/api/user/board?user=virendracarpenter)](https://holopin.io/@virendracarpenter)
+[![@virendracarpenter's Holopin board](https://holopin.me/virendracarpenter)](https://holopin.io/@virendracarpenter)
 <!-- <p align="center"> <img src="vcarp cover github.png" alt="me!"/></p> -->
 
 # <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm VIRENDRA CARPENTER <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"></p>
@@ -93,9 +93,7 @@
 ![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-                                                                                                         
-# 🎶 ![Spotify](https://img.shields.io/badge/Spotify-Playing_Now-brightgreen?style=for-the-badge&logo=spotify) 🎶 #
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31em2kzeeu5yksdlb5nzytlhkge4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)
+
 
 ## 💸 SUPPORT 💸 ##
 <img align="left" src="https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple" width="150" alt="vcarp"/> 
@@ -103,4 +101,4 @@
 <p align="left"><a href="https:/"><img align="center" src="docs/virendra%20carpenter_upi.png" width="150" alt="vcarp"/></a><p>
 <br><br>
  
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=virendracarpenter&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=virendracarpenter&theme=tokyo-night)
